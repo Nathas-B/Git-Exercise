@@ -1,6 +1,8 @@
 👤 1. Student Information
-Name: Nathas Bunyarat
+Name1: Nathas Bunyarat
 Email: 6730135921@student.chulca.ac.th
+Name2: Yada Wajeenuruksakulchai
+Email: 6730122721@student.chula.ac.th
 
 🖼️ 2. Picture
 ![Quote Picture](Picture/Quote.png)
